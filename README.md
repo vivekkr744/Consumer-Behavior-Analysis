@@ -58,9 +58,7 @@ E-commerce businesses often face challenges in:
 ┣ 📊 Ecommerce_analysis.pbix        # Power BI dashboard file  
 ┣ 📑 project.pdf           # Detailed report  
 ┣ 📜 README.md             # Documentation  
-┣ 📜 CONTRIBUTING.md       # Contribution guidelines  
-┣ 📜 LICENSE               # MIT License  
-┗ 📂 data/                 # Raw & cleaned datasets  
+
 
 ---
 
